@@ -213,3 +213,5 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+DemoApplication/DemoApplication/App_Data/aspnet-DemoApplication-20140222155154.mdf
+DemoApplication/DemoApplication/App_Data/aspnet-DemoApplication-20140222155154_log.ldf
